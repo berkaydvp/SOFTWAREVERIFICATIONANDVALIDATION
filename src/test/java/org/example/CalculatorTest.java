@@ -2,7 +2,7 @@
 // BERKAY ERDOĞAN
 // SOFTWARE VERIFICATION AND VALIDATION
 // ASSIGNMENT 1
-// https://github.com/berkaydvp/SoftwareVV_HW1
+// https://github.com/berkaydvp/SOFTWAREVERIFICATIONANDVALIDATION
 
 
 package org.example;
